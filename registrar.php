@@ -31,7 +31,7 @@
                         <input type="text" name="nombre" placeholder="" required>
 
                         <label for="password">password</label>
-                        <input type="text" name="password" placeholder="" required>
+                        <input type="password" name="password" placeholder="" required>
 
                         <br>
                         <button class="btn btn-warning">GUARDAR</button>
